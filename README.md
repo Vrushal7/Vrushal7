@@ -1,7 +1,7 @@
 <h1 align="center">I am Vrushal More</h1>
 <h3 align="center">2nd year student from SIES GST, INDIA</h3>
 
-- 📫 How to reach me **more.vrushal.work@gmail.com**
+- 📫 Email **more.vrushal.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
