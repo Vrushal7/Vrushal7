@@ -1,5 +1,5 @@
 <h1 align="center">I am Vrushal More</h1>
-<h3 align="center">2nd year student from SIES GST from INDIA</h3>
+<h3 align="center">2nd year student from SIES GST, INDIA</h3>
 
 - 📫 How to reach me **more.vrushal.work@gmail.com**
 
