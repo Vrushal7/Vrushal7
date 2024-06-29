@@ -1,9 +1,9 @@
-<h1 align="center">I am Vrushal More</h1>
+<h1 align="center">About Me</h1>
 <h3 align="center">2nd year student from SIES GST, INDIA</h3>
 
 - 📫 Email **more.vrushal.work@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect:</h3>
 <p align="left">
 <a href="https://twitter.com/vrushal_more" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vrushal_more" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vrushal more" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vrushal more" height="30" width="40" /></a>
