@@ -1,5 +1,5 @@
 <h1 align="center">About me:</h1>
-<h3 align="center">2nd year Engineering student at SIES GST,INDIA</h3>
+<h3 align="center">Student | Founder | Author</h3>
 
 - 📫 Email: **more.vrushal.work@gmail.com**
 
