@@ -1,5 +1,5 @@
 <h1 align="center">About me:</h1>
-<h3 align="center">UG Student | Machine Learning Intern | Visual Designer | Founder | Author</h3>
+<h3 align="center">UG Student | Machine Learning Intern | Graphic Designer | Founder | Author</h3>
 
 - 📫 Email: **more.vrushal.work@gmail.com**
 
